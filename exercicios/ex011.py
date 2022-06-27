@@ -1,4 +1,4 @@
-palavras = ['abacate', 'banana', 'limao', 'melancia', 'Morango']
+palavras = ['abacate', 'banana', 'limao', 'melancia', 'morango']
 final = []
 
 
